@@ -6,12 +6,16 @@ void dashboard(){
     cout << "\n======================" << endl;
     cout << "     Calculator Menu" << endl;
     cout << "======================" << endl;
-    cout << "1. Addition" << endl;
-    cout << "2. Subtraction" << endl;
-    cout << "3. Multiplication" << endl;
-    cout << "4. Division" << endl;
-    cout << "5. Square" << endl;
-    cout << "6. Exit" << endl;
+    cout << "01. Addition" << endl;
+    cout << "02. Subtraction" << endl;
+    cout << "03. Multiplication" << endl;
+    cout << "04. Division" << endl;
+    cout << "05. Square" << endl;
+    cout << "06. Exit" << endl;
+    cout << "07. Square Root "<<endl;
+    cout << "08. Sin "<<endl;
+    cout << "09. Cos "<<endl;
+    cout << "1o. Tan "<<endl;    
     cout << "======================" << endl;
 }
 
